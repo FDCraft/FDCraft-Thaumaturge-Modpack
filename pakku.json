@@ -10,6 +10,9 @@
         },
         "geckolib": {
             "side": "BOTH"
+        },
+        "lithostitched": {
+            "side": "BOTH"
         }
     }
 }
