@@ -695,7 +695,8 @@
         {
             "pakku_id": "AhDE3IU3M3qbhld1",
             "pakku_links": [
-                "nAxaMkzNwgDOFEvy"
+                "nAxaMkzNwgDOFEvy",
+                "1ofAnUMullUo21Hg"
             ],
             "type": "MOD",
             "slug": {
@@ -811,7 +812,10 @@
             ]
         },
         {
-            "pakku_id": "nAxaMkzNwgDOFEvy",
+            "pakku_id": "1ofAnUMullUo21Hg",
+            "pakku_links": [
+                "R6fLHSCsaeA9KgZN"
+            ],
             "type": "MOD",
             "slug": {
                 "curseforge": "compixel"
@@ -825,7 +829,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "compixel-neoforge-1.21.1-0.1.18-with-kotlin.jar",
+                    "file_name": "compixel-neoforge-1.21.1-0.1.18.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -833,16 +837,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/9351/26/compixel-neoforge-1.21.1-0.1.18-with-kotlin.jar",
-                    "id": "9351026",
+                    "url": "https://edge.forgecdn.net/files/9351/24/compixel-neoforge-1.21.1-0.1.18.jar",
+                    "id": "9351024",
                     "parent_id": "1715758",
                     "hashes": {
-                        "sha1": "b303089e5d31a48d48ccd5e9e5467b8ed6d2a23c",
-                        "md5": "e2faf33bbbd993f1fa4f4680e444302d"
+                        "sha1": "4ff34296bc0fb224f1b8f273e2f0f37c9cd625e2",
+                        "md5": "c072592ae15fcab7564736f80a76973c"
                     },
-                    "required_dependencies": [],
-                    "size": 42934145,
-                    "date_published": "2026-10-28T10:13:00.573Z"
+                    "required_dependencies": [
+                        "351264"
+                    ],
+                    "size": 40668537,
+                    "date_published": "2026-10-28T10:12:59.013Z"
                 }
             ]
         },
@@ -1462,6 +1468,86 @@
                     ],
                     "size": 4784333,
                     "date_published": "2026-11-01T09:41:58.129093Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "R6fLHSCsaeA9KgZN",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "kotlin-for-forge",
+                "modrinth": "kotlin-for-forge"
+            },
+            "name": {
+                "curseforge": "Kotlin for Forge",
+                "modrinth": "Kotlin for Forge"
+            },
+            "id": {
+                "curseforge": "351264",
+                "modrinth": "ordsPcFz"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "kotlinforforge-5.13.0-all.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.8",
+                        "1.21.5",
+                        "1.21.4",
+                        "1.21.1",
+                        "1.21.6",
+                        "1.21.3",
+                        "1.21.7",
+                        "1.21.2"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9641/139/kotlinforforge-5.13.0-all.jar",
+                    "id": "9641139",
+                    "parent_id": "351264",
+                    "hashes": {
+                        "sha1": "b1d5563f4e3db9ec4a4a2b371560aa171d6de237",
+                        "md5": "4aa3558b0dde2f035fa5288505093e56"
+                    },
+                    "required_dependencies": [],
+                    "size": 7364729,
+                    "date_published": "2026-11-16T01:59:41.930Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "kotlinforforge-5.13.0-all.jar",
+                    "mc_versions": [
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/9ZlVvei8/kotlinforforge-5.13.0-all.jar",
+                    "id": "9ZlVvei8",
+                    "parent_id": "ordsPcFz",
+                    "hashes": {
+                        "sha512": "64a26f73e3299ad09b350d3421e3f97a5ccd158d1936fb50fc57f3c88bf6fd33814568bf43a0886f79ada4be65d65d232d9e20a901833150ec5b89a01c46d459",
+                        "sha1": "b1d5563f4e3db9ec4a4a2b371560aa171d6de237"
+                    },
+                    "required_dependencies": [],
+                    "size": 7364729,
+                    "date_published": "2026-11-16T01:46:16.062185Z"
                 }
             ]
         },
