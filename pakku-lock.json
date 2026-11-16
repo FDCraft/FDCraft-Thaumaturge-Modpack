@@ -840,89 +840,6 @@
             ]
         },
         {
-            "pakku_id": "AhDE3IU3M3qbhld1",
-            "pakku_links": [
-                "nAxaMkzNwgDOFEvy",
-                "1ofAnUMullUo21Hg"
-            ],
-            "type": "MOD",
-            "slug": {
-                "curseforge": "beyond-dimensions"
-            },
-            "name": {
-                "curseforge": "Beyond Dimensions"
-            },
-            "id": {
-                "curseforge": "1222890"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "beyonddimensions-1.21.1-neoforge-0.8.9.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/9380/15/beyonddimensions-1.21.1-neoforge-0.8.9.jar",
-                    "id": "9380015",
-                    "parent_id": "1222890",
-                    "hashes": {
-                        "sha1": "92670df03ded1cb6c5eab3ad8cacd7683608cd9d",
-                        "md5": "ee7b1cfc54b4405bce9350aae602aac8"
-                    },
-                    "required_dependencies": [
-                        "1715758"
-                    ],
-                    "size": 2702394,
-                    "date_published": "2026-10-31T03:05:27.133Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "R7DBf53rO26bsqaY",
-            "pakku_links": [
-                "AhDE3IU3M3qbhld1"
-            ],
-            "type": "MOD",
-            "slug": {
-                "curseforge": "beyond-integration"
-            },
-            "name": {
-                "curseforge": "Beyond: Integration"
-            },
-            "id": {
-                "curseforge": "1557405"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "beyond_integration-1.21.1-neoforge-0.8.1-beta.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/9503/430/beyond_integration-1.21.1-neoforge-0.8.1-beta.jar",
-                    "id": "9503430",
-                    "parent_id": "1557405",
-                    "hashes": {
-                        "sha1": "897e82ef9ad6137acedb06f901bec802f1fcd8ac",
-                        "md5": "5cba5905e520f39619d3d8c7f1edd412"
-                    },
-                    "required_dependencies": [
-                        "1222890"
-                    ],
-                    "size": 1404769,
-                    "date_published": "2026-11-08T01:16:59.750Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "KexZvmBRVVa5jfPw",
             "type": "MOD",
             "side": "BOTH",
@@ -1052,48 +969,6 @@
                     "required_dependencies": [],
                     "size": 3861286,
                     "date_published": "2026-10-24T15:30:14.020Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "1ofAnUMullUo21Hg",
-            "pakku_links": [
-                "R6fLHSCsaeA9KgZN"
-            ],
-            "type": "MOD",
-            "slug": {
-                "curseforge": "compixel"
-            },
-            "name": {
-                "curseforge": "CompixelUI"
-            },
-            "id": {
-                "curseforge": "1715758"
-            },
-            "update_strategy": "NONE",
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "compixel-neoforge-1.21.1-0.1.18.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/9351/24/compixel-neoforge-1.21.1-0.1.18.jar",
-                    "id": "9351024",
-                    "parent_id": "1715758",
-                    "hashes": {
-                        "sha1": "4ff34296bc0fb224f1b8f273e2f0f37c9cd625e2",
-                        "md5": "c072592ae15fcab7564736f80a76973c"
-                    },
-                    "required_dependencies": [
-                        "351264"
-                    ],
-                    "size": 40668537,
-                    "date_published": "2026-10-28T10:12:59.013Z"
                 }
             ]
         },
