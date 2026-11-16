@@ -1098,6 +1098,69 @@
             ]
         },
         {
+            "pakku_id": "7rQ9q7FfWa6dVYU9",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "cucumber",
+                "modrinth": "cucumber"
+            },
+            "name": {
+                "curseforge": "Cucumber Library",
+                "modrinth": "Cucumber Library"
+            },
+            "id": {
+                "curseforge": "272335",
+                "modrinth": "Rw1NrDzF"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Cucumber-1.21.1-8.0.16.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8035/802/Cucumber-1.21.1-8.0.16.jar",
+                    "id": "8035802",
+                    "parent_id": "272335",
+                    "hashes": {
+                        "sha1": "0e97553af44d39d1976fe6feb4baf1c30c6b2f06",
+                        "md5": "3676382650b6ad5914dce9e3c451c9f0"
+                    },
+                    "required_dependencies": [],
+                    "size": 275588,
+                    "date_published": "2026-05-04T02:17:14.053Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Cucumber-1.21.1-8.0.16.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Rw1NrDzF/versions/8421rqFF/Cucumber-1.21.1-8.0.16.jar",
+                    "id": "8421rqFF",
+                    "parent_id": "Rw1NrDzF",
+                    "hashes": {
+                        "sha512": "fbc63f23f827061b2a45f33a3867e105268b5a51d9ca92ba3bacd2e2a0af847eb4c367e726a62a455b841e503f8ce73ea9e180285670ddf3ec18a8ba4e72da7d",
+                        "sha1": "0e97553af44d39d1976fe6feb4baf1c30c6b2f06"
+                    },
+                    "required_dependencies": [],
+                    "size": 275588,
+                    "date_published": "2026-05-04T02:17:15.448018Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "OsU1pJ5jN3vx1cya",
             "type": "MOD",
             "side": "BOTH",
@@ -1405,7 +1468,7 @@
         {
             "pakku_id": "8jG7EJdNjlmZkGYq",
             "type": "MOD",
-            "side": "CLIENT",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "geckolib",
                 "modrinth": "geckolib"
@@ -1935,7 +1998,7 @@
         {
             "pakku_id": "j8RELNAQ3hFaiyFA",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "lithostitched",
                 "modrinth": "lithostitched"
@@ -2216,6 +2279,222 @@
                     ],
                     "size": 741784,
                     "date_published": "2026-09-29T13:38:59.520918Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ZPnAV38o6UZPf7fy",
+            "pakku_links": [
+                "7rQ9q7FfWa6dVYU9"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "mystical-agriculture",
+                "modrinth": "mystical-agriculture"
+            },
+            "name": {
+                "curseforge": "Mystical Agriculture",
+                "modrinth": "Mystical Agriculture"
+            },
+            "id": {
+                "curseforge": "246640",
+                "modrinth": "C95ReXie"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MysticalAgriculture-1.21.1-8.0.29.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9291/239/MysticalAgriculture-1.21.1-8.0.29.jar",
+                    "id": "9291239",
+                    "parent_id": "246640",
+                    "hashes": {
+                        "sha1": "4a774506f65899683aa40b92fec972ddcc4fdc4f",
+                        "md5": "3d9dada0f615f6acefee102336f3eaa9"
+                    },
+                    "required_dependencies": [
+                        "272335"
+                    ],
+                    "size": 2328280,
+                    "date_published": "2026-10-22T19:41:54.503Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "MysticalAgriculture-1.21.1-8.0.29.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/C95ReXie/versions/4Wc9oVPI/MysticalAgriculture-1.21.1-8.0.29.jar",
+                    "id": "4Wc9oVPI",
+                    "parent_id": "C95ReXie",
+                    "hashes": {
+                        "sha512": "022797a3b0dd2fd88d9ce7a16a1204ef5ae6412127807e414fa760e3b6711924a18ce596142b3819272af6fae84e810d4452c449e86f4e1ea4c6da86ca279d02",
+                        "sha1": "4a774506f65899683aa40b92fec972ddcc4fdc4f"
+                    },
+                    "required_dependencies": [
+                        "Rw1NrDzF"
+                    ],
+                    "size": 2328280,
+                    "date_published": "2026-10-22T19:41:56.097839Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "5FBO8OdkxWmYmKyV",
+            "pakku_links": [
+                "ZPnAV38o6UZPf7fy",
+                "7rQ9q7FfWa6dVYU9"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "mystical-automation",
+                "modrinth": "mystical-automation"
+            },
+            "name": {
+                "curseforge": "Mystical Automation",
+                "modrinth": "Mystical Automation"
+            },
+            "id": {
+                "curseforge": "1265613",
+                "modrinth": "wtZsRhqk"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MysticalAutomation-1.21.1-1.0.9.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9455/10/MysticalAutomation-1.21.1-1.0.9.jar",
+                    "id": "9455010",
+                    "parent_id": "1265613",
+                    "hashes": {
+                        "sha1": "7bd47860b6a161f72faee38c0fff4f85a72fe1a7",
+                        "md5": "b39b2bce99ac7d87272a53ce5c88a190"
+                    },
+                    "required_dependencies": [
+                        "246640",
+                        "272335"
+                    ],
+                    "size": 281665,
+                    "date_published": "2026-11-05T15:31:08.627Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "MysticalAutomation-1.21.1-1.0.9.jar",
+                    "mc_versions": [
+                        "1.21.1",
+                        "1.21"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/wtZsRhqk/versions/tSBll6bM/MysticalAutomation-1.21.1-1.0.9.jar",
+                    "id": "tSBll6bM",
+                    "parent_id": "wtZsRhqk",
+                    "hashes": {
+                        "sha512": "dd62816e56a41841b2d6dd71ecf5b7a524a1ec868cd578d63fb98010966023118c91b2daf1633f8e12ff134cc7120354678febf90272a1833ac9a7f68c2714e9",
+                        "sha1": "7bd47860b6a161f72faee38c0fff4f85a72fe1a7"
+                    },
+                    "required_dependencies": [
+                        "Rw1NrDzF",
+                        "C95ReXie"
+                    ],
+                    "size": 281665,
+                    "date_published": "2026-11-05T15:31:09.626463Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Bxb7eCEPdR0qQxG0",
+            "pakku_links": [
+                "7rQ9q7FfWa6dVYU9",
+                "ZPnAV38o6UZPf7fy"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "mystical-customization",
+                "modrinth": "mystical-customization"
+            },
+            "name": {
+                "curseforge": "Mystical Customization",
+                "modrinth": "Mystical Customization"
+            },
+            "id": {
+                "curseforge": "280441",
+                "modrinth": "lNK9A4rh"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MysticalCustomization-1.21.1-6.0.2.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7666/340/MysticalCustomization-1.21.1-6.0.2.jar",
+                    "id": "7666340",
+                    "parent_id": "280441",
+                    "hashes": {
+                        "sha1": "483c44e51b8f4c8dd24c239f945a819da766d219",
+                        "md5": "17fea0aa8d95b1b022f0446ff264dcc2"
+                    },
+                    "required_dependencies": [
+                        "272335",
+                        "246640"
+                    ],
+                    "size": 49374,
+                    "date_published": "2026-02-23T03:31:38.913Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "MysticalCustomization-1.21.1-6.0.2.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/lNK9A4rh/versions/ACBylvtB/MysticalCustomization-1.21.1-6.0.2.jar",
+                    "id": "ACBylvtB",
+                    "parent_id": "lNK9A4rh",
+                    "hashes": {
+                        "sha512": "40283780eed9fd66c92dccd767f4dcb468ce8af1ef95f30d57ef5eba2a383fe3484c3cb7791835eb198c97e8940f2564dd15b487432b7b4e6b09f2962af4276c",
+                        "sha1": "483c44e51b8f4c8dd24c239f945a819da766d219"
+                    },
+                    "required_dependencies": [
+                        "C95ReXie",
+                        "Rw1NrDzF"
+                    ],
+                    "size": 49374,
+                    "date_published": "2026-02-23T03:31:40.536868Z"
                 }
             ]
         },
@@ -2555,6 +2834,203 @@
             ]
         },
         {
+            "pakku_id": "fR2MTUXkgQghNSzX",
+            "pakku_links": [
+                "fgEXYO0gFRVEEh1H"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "sophisticated-backpacks",
+                "modrinth": "sophisticated-backpacks"
+            },
+            "name": {
+                "curseforge": "Sophisticated Backpacks",
+                "modrinth": "Sophisticated Backpacks"
+            },
+            "id": {
+                "curseforge": "422301",
+                "modrinth": "TyCTlI4b"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sophisticatedbackpacks-1.21.1-3.26.21.2249.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9524/812/sophisticatedbackpacks-1.21.1-3.26.21.2249.jar",
+                    "id": "9524812",
+                    "parent_id": "422301",
+                    "hashes": {
+                        "sha1": "d8858c4135c4be4b8f9db7454bb0086b40ddae9f",
+                        "md5": "31c71b2772449f01c130acad01fb60cf"
+                    },
+                    "required_dependencies": [
+                        "618298"
+                    ],
+                    "size": 1265683,
+                    "date_published": "2026-11-09T10:50:49.580Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "sophisticatedbackpacks-1.21.1-3.26.21.2249.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/tJnK2DE1/sophisticatedbackpacks-1.21.1-3.26.21.2249.jar",
+                    "id": "tJnK2DE1",
+                    "parent_id": "TyCTlI4b",
+                    "hashes": {
+                        "sha512": "1373f5cdf9093e9613c82d429b6670538bf0fa1a397f5cc1e5e807fca0debd77139de67764c111bc369eea4cc1a395bbd790ec337413353fd1c987b7d9376249",
+                        "sha1": "940e93e9eaaf7db50c308c2a849a471830f6c1ea"
+                    },
+                    "required_dependencies": [
+                        "nmoqTijg"
+                    ],
+                    "size": 1265683,
+                    "date_published": "2026-11-09T10:53:17.831369Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "fgEXYO0gFRVEEh1H",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "sophisticated-core",
+                "modrinth": "sophisticated-core"
+            },
+            "name": {
+                "curseforge": "Sophisticated Core",
+                "modrinth": "Sophisticated Core"
+            },
+            "id": {
+                "curseforge": "618298",
+                "modrinth": "nmoqTijg"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sophisticatedcore-1.21.1-1.5.37.2482.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9630/244/sophisticatedcore-1.21.1-1.5.37.2482.jar",
+                    "id": "9630244",
+                    "parent_id": "618298",
+                    "hashes": {
+                        "sha1": "006d6206d7a0a76dd210f7db22f742726ec1cbc0",
+                        "md5": "fd80dea09c87bee72e5564a44e5228ff"
+                    },
+                    "required_dependencies": [],
+                    "size": 1855061,
+                    "date_published": "2026-11-15T14:30:26.020Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "sophisticatedcore-1.21.1-1.5.37.2482.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/lOcWBcOc/sophisticatedcore-1.21.1-1.5.37.2482.jar",
+                    "id": "lOcWBcOc",
+                    "parent_id": "nmoqTijg",
+                    "hashes": {
+                        "sha512": "d76b10de7ea1b7e74db2a6d95ef2be45b42d329fc168dcee9981e9ed1da07dd1ca37ddabb0f13dd5cbc05d41f029664861716703f552fae0c70118e72ebe19ef",
+                        "sha1": "903f72d2ae067334edc52de4b8bd237773f413c6"
+                    },
+                    "required_dependencies": [],
+                    "size": 1855061,
+                    "date_published": "2026-11-15T14:32:38.440456Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "T6U7YVFJC4jJgX6V",
+            "pakku_links": [
+                "fgEXYO0gFRVEEh1H"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "sophisticated-storage",
+                "modrinth": "sophisticated-storage"
+            },
+            "name": {
+                "curseforge": "Sophisticated Storage",
+                "modrinth": "Sophisticated Storage"
+            },
+            "id": {
+                "curseforge": "619320",
+                "modrinth": "hMlaZH8f"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sophisticatedstorage-1.21.1-1.6.18.2229.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9578/283/sophisticatedstorage-1.21.1-1.6.18.2229.jar",
+                    "id": "9578283",
+                    "parent_id": "619320",
+                    "hashes": {
+                        "sha1": "7b6b98482d8f1f7d1f586c601eb4eae652b63bed",
+                        "md5": "308a5b5a0d2c1642352c58f34e929dbb"
+                    },
+                    "required_dependencies": [
+                        "618298"
+                    ],
+                    "size": 2097233,
+                    "date_published": "2026-11-12T17:54:08.487Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "sophisticatedstorage-1.21.1-1.6.18.2229.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/ZviRSUKL/sophisticatedstorage-1.21.1-1.6.18.2229.jar",
+                    "id": "ZviRSUKL",
+                    "parent_id": "hMlaZH8f",
+                    "hashes": {
+                        "sha512": "466f075549adc7ff1ca2de216e4a51e2101999bdecab713dfd75d432ce83a62d3ebb1ac34713d593fa583d80bd5865a593f667493e40d3553a8e7c816fd4f147",
+                        "sha1": "3a8bb9c5cda3bf0da78f35ea3f3f7e43e62c8472"
+                    },
+                    "required_dependencies": [
+                        "nmoqTijg"
+                    ],
+                    "size": 2097234,
+                    "date_published": "2026-11-12T17:57:37.047110Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "8wv7qCdffEuJTUdW",
             "pakku_links": [
                 "OsU1pJ5jN3vx1cya"
@@ -2715,6 +3191,67 @@
                     ],
                     "size": 79853,
                     "date_published": "2026-10-25T16:01:19.060Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "uHg2T9kWXb4ctHqP",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "thaumic-decoration",
+                "modrinth": "thaumic-decoration"
+            },
+            "name": {
+                "curseforge": "Thaumic Decoration",
+                "modrinth": "Thaumic Decoration"
+            },
+            "id": {
+                "curseforge": "1358460",
+                "modrinth": "NJXOkVEu"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "thaumic_decoration-1.21.1-0.3.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8566/258/thaumic_decoration-1.21.1-0.3.0.jar",
+                    "id": "8566258",
+                    "parent_id": "1358460",
+                    "hashes": {
+                        "sha1": "246a094d25024e4a21732c8c2eac8685208f5739",
+                        "md5": "49d4663a5924f7576f5e49efaf19da9d"
+                    },
+                    "required_dependencies": [],
+                    "size": 693262,
+                    "date_published": "2026-08-03T01:10:54.640Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "thaumic_decoration-1.21.1-0.3.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/NJXOkVEu/versions/fIbVSr5d/thaumic_decoration-1.21.1-0.3.0.jar",
+                    "id": "fIbVSr5d",
+                    "parent_id": "NJXOkVEu",
+                    "hashes": {
+                        "sha512": "e078e1d77a6078e280cc4343a68dbb824421e2c025d7e32d8e301170700e54a99feda2bbfa2bd87032086e10e6beaf8f7e61cf82dcd577315d3f4ec222c29cef",
+                        "sha1": "246a094d25024e4a21732c8c2eac8685208f5739"
+                    },
+                    "required_dependencies": [],
+                    "size": 693262,
+                    "date_published": "2026-08-03T01:20:34.958064Z"
                 }
             ]
         },
