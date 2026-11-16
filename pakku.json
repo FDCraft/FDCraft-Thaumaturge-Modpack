@@ -7,6 +7,9 @@
     "projects": {
         "compixel": {
             "update_strategy": "NONE"
+        },
+        "geckolib": {
+            "side": "BOTH"
         }
     }
 }

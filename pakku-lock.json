@@ -354,6 +354,74 @@
             ]
         },
         {
+            "pakku_id": "YMe5kVBET8OA40A7",
+            "pakku_links": [
+                "zFVnWkowzea2f8Jh"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "apothic-spawners",
+                "modrinth": "apothic-spawners"
+            },
+            "name": {
+                "curseforge": "Apothic Spawners",
+                "modrinth": "Apothic-Spawners"
+            },
+            "id": {
+                "curseforge": "986583",
+                "modrinth": "DfxVkOAO"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ApothicSpawners-1.21.1-1.4.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8469/405/ApothicSpawners-1.21.1-1.4.0.jar",
+                    "id": "8469405",
+                    "parent_id": "986583",
+                    "hashes": {
+                        "sha1": "b3be29751daea738e691db8949cce079e5aae3be",
+                        "md5": "44e018cfa2142298116677addb835318"
+                    },
+                    "required_dependencies": [
+                        "283644"
+                    ],
+                    "size": 129784,
+                    "date_published": "2026-07-20T04:34:45.187Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "ApothicSpawners-1.21.1-1.4.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/DfxVkOAO/versions/pWfxcfO2/ApothicSpawners-1.21.1-1.4.0.jar",
+                    "id": "pWfxcfO2",
+                    "parent_id": "DfxVkOAO",
+                    "hashes": {
+                        "sha512": "2fdd49cdb3e6610846c3a746ab0730d6d49412eaf8c21e3d0b9d588d80c8cd1a1d0b7e19ade7fc86fd699ac02e270e5fa01fb5cf106d24a7740692ecc1ad8820",
+                        "sha1": "b3be29751daea738e691db8949cce079e5aae3be"
+                    },
+                    "required_dependencies": [
+                        "tCkE8p2N"
+                    ],
+                    "size": 129784,
+                    "date_published": "2026-07-20T04:34:46.986449Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Tf04NTzGk4Pn6fUM",
             "pakku_links": [
                 "a2Xsw7tHK2uEWwfk"
@@ -463,6 +531,49 @@
             ]
         },
         {
+            "pakku_id": "IhSpZmyMBOe6Wtle",
+            "pakku_links": [
+                "kHgUw8RepXeRusp0",
+                "Tf04NTzGk4Pn6fUM"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "applied-flux"
+            },
+            "name": {
+                "curseforge": "Applied Flux"
+            },
+            "id": {
+                "curseforge": "965012"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "AppliedFlux-1.21-2.1.7-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9288/549/AppliedFlux-1.21-2.1.7-neoforge.jar",
+                    "id": "9288549",
+                    "parent_id": "965012",
+                    "hashes": {
+                        "sha1": "46080cef7d9cbf6d2bf6356d97838df03ff1e40c",
+                        "md5": "597a3281a916a6002c6d68ac9aaa4076"
+                    },
+                    "required_dependencies": [
+                        "957920",
+                        "223794"
+                    ],
+                    "size": 351056,
+                    "date_published": "2026-10-22T15:08:05.037Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "M8pcOdK5nX4hhI7U",
             "pakku_links": [
                 "OsU1pJ5jN3vx1cya",
@@ -567,6 +678,42 @@
                     "required_dependencies": [],
                     "size": 584731,
                     "date_published": "2026-11-14T11:30:41.016741Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "cej11Vf1h8kweaKd",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "bookshelf-extended-enchanting-reach"
+            },
+            "name": {
+                "curseforge": "BEER - Bookshelf Extended Enchanting Reach"
+            },
+            "id": {
+                "curseforge": "1274736"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "beer-1.21.1-1.4.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8717/958/beer-1.21.1-1.4.4.jar",
+                    "id": "8717958",
+                    "parent_id": "1274736",
+                    "hashes": {
+                        "sha1": "14867ad1bee1cc53b58c42a8d33a898a99551e1a",
+                        "md5": "12b7b338fd9ada225608e7b725290687"
+                    },
+                    "required_dependencies": [],
+                    "size": 71530,
+                    "date_published": "2026-08-23T19:07:21.797Z"
                 }
             ]
         },
@@ -776,6 +923,67 @@
             ]
         },
         {
+            "pakku_id": "KexZvmBRVVa5jfPw",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "bibliocraft-legacy",
+                "modrinth": "bibliocraft-legacy"
+            },
+            "name": {
+                "curseforge": "Bibliocraft Legacy",
+                "modrinth": "Bibliocraft Legacy"
+            },
+            "id": {
+                "curseforge": "1122260",
+                "modrinth": "eiXYWB7J"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "bibliocraft-1.21.1-1.6.6.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8898/574/bibliocraft-1.21.1-1.6.6.jar",
+                    "id": "8898574",
+                    "parent_id": "1122260",
+                    "hashes": {
+                        "sha1": "534fda8d439b5f5d1017d4362ec852e9eee27bc6",
+                        "md5": "e6f0729bb3952ecb9033ad6c25cc3540"
+                    },
+                    "required_dependencies": [],
+                    "size": 5468615,
+                    "date_published": "2026-09-16T20:34:36.093Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "bibliocraft-1.21.1-1.6.6.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/eiXYWB7J/versions/XlDfbWrV/bibliocraft-1.21.1-1.6.6.jar",
+                    "id": "XlDfbWrV",
+                    "parent_id": "eiXYWB7J",
+                    "hashes": {
+                        "sha512": "045809410aff17152d89554a11a78adbdcf5e524c23440f5468690948e557436abce85513e1888c123c080157a3cd8c0e0a3b447e4328280d90ddd096c5af41c",
+                        "sha1": "534fda8d439b5f5d1017d4362ec852e9eee27bc6"
+                    },
+                    "required_dependencies": [],
+                    "size": 5468615,
+                    "date_published": "2026-09-16T20:34:40.555461Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "XM73ldcCkFTtwFOi",
             "type": "MOD",
             "slug": {
@@ -812,6 +1020,42 @@
             ]
         },
         {
+            "pakku_id": "fh1UzO6vPZXZbv2x",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "building-gadgets"
+            },
+            "name": {
+                "curseforge": "Building Gadgets"
+            },
+            "id": {
+                "curseforge": "298187"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "buildinggadgets2-21.1.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9310/471/buildinggadgets2-21.1.1.jar",
+                    "id": "9310471",
+                    "parent_id": "298187",
+                    "hashes": {
+                        "sha1": "85512ea14d1b7cfd9709649568cda158f5bcdac8",
+                        "md5": "2563f046c4a6e8b6cc11c16a334a378e"
+                    },
+                    "required_dependencies": [],
+                    "size": 3861286,
+                    "date_published": "2026-10-24T15:30:14.020Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "1ofAnUMullUo21Hg",
             "pakku_links": [
                 "R6fLHSCsaeA9KgZN"
@@ -826,6 +1070,7 @@
             "id": {
                 "curseforge": "1715758"
             },
+            "update_strategy": "NONE",
             "files": [
                 {
                     "type": "curseforge",
