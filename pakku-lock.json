@@ -881,47 +881,6 @@
             ]
         },
         {
-            "pakku_id": "cJuSE9ONi33GFyNU",
-            "pakku_links": [
-                "9FiPWNbCPoDykS3S"
-            ],
-            "type": "MOD",
-            "slug": {
-                "curseforge": "beyond-integration"
-            },
-            "name": {
-                "curseforge": "Beyond: Integration"
-            },
-            "id": {
-                "curseforge": "1557405"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "beyond_integration-1.21.1-neoforge-0.8.1-beta.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/9503/430/beyond_integration-1.21.1-neoforge-0.8.1-beta.jar",
-                    "id": "9503430",
-                    "parent_id": "1557405",
-                    "hashes": {
-                        "sha1": "897e82ef9ad6137acedb06f901bec802f1fcd8ac",
-                        "md5": "5cba5905e520f39619d3d8c7f1edd412"
-                    },
-                    "required_dependencies": [
-                        "1222890"
-                    ],
-                    "size": 1404769,
-                    "date_published": "2026-11-08T01:16:59.750Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "KexZvmBRVVa5jfPw",
             "type": "MOD",
             "side": "BOTH",
