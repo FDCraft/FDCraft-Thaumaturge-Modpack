@@ -5517,7 +5517,7 @@
                 "TQdUSenaOkHxpPe3"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "leaves-be-gone",
                 "modrinth": "leaves-be-gone"
@@ -5781,7 +5781,7 @@
         {
             "pakku_id": "ieaTmeBgyyeE3GY1",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "lmft",
                 "modrinth": "lmft"
@@ -5935,7 +5935,7 @@
         {
             "pakku_id": "mwFxlHI4DVqv9mxR",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "long-nbt-killer",
                 "modrinth": "long-nbt-killer"
@@ -6846,49 +6846,6 @@
                     "required_dependencies": [],
                     "size": 224657,
                     "date_published": "2026-04-08T01:47:47.219161Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "RPdqOO2VKDlQosYW",
-            "pakku_links": [
-                "Tf04NTzGk4Pn6fUM",
-                "L2bXkJBF0pknXjnV"
-            ],
-            "type": "MOD",
-            "slug": {
-                "curseforge": "neo-eco-ae-extension"
-            },
-            "name": {
-                "curseforge": "Neo ECO AE Extension"
-            },
-            "id": {
-                "curseforge": "1460639"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "neoecoae-21.2.17.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/9574/998/neoecoae-21.2.17.jar",
-                    "id": "9574998",
-                    "parent_id": "1460639",
-                    "hashes": {
-                        "sha1": "684a240a4ea161ff59ab8ce90dbba5646b78f88a",
-                        "md5": "f114030200c178a7daf111665ae8fe42"
-                    },
-                    "required_dependencies": [
-                        "223794",
-                        "626676"
-                    ],
-                    "size": 7578879,
-                    "date_published": "2026-11-12T14:36:05.553Z"
                 }
             ]
         },
@@ -8768,7 +8725,7 @@
                 "GIxxR0pjzrfXs3lv"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "starter-kit",
                 "modrinth": "starter-kit"
@@ -8913,7 +8870,7 @@
                 "s8oaC8oLhoiMv18Z"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "structure-layout-optimizer",
                 "modrinth": "structure-layout-optimizer"

@@ -25,6 +25,21 @@
         },
         "achievements-optimizer": {
             "side": "BOTH"
+        },
+        "leaves-be-gone": {
+            "side": "BOTH"
+        },
+        "starter-kit": {
+            "side": "BOTH"
+        },
+        "structure-layout-optimizer": {
+            "side": "BOTH"
+        },
+        "long-nbt-killer": {
+            "side": "BOTH"
+        },
+        "lmft": {
+            "side": "BOTH"
         }
     }
 }
