@@ -40,6 +40,27 @@
         },
         "lmft": {
             "side": "BOTH"
+        },
+        "ruok": {
+            "side": "CLIENT"
+        },
+        "liubai": {
+            "side": "CLIENT"
+        },
+        "jei": {
+            "update_strategy": "NONE"
+        },
+        "xaeros-minimap": {
+            "side": "BOTH"
+        },
+        "xaeros-world-map": {
+            "side": "BOTH"
+        },
+        "luck-all-bonus": {
+            "side": "BOTH"
+        },
+        "zfastnoise": {
+            "side": "BOTH"
         }
     }
 }

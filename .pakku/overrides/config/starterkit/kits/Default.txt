@@ -7,7 +7,7 @@
 1 : '{count:1,id:"beyonddimensions:net_creater"}',
 2 : '{count:1,id:"sophisticatedbackpacks:netherite_backpack"}',
 3 : '{count:1,id:"majobroom:broom"}',
-4 : '',
+4 : '{count:1,id:"useless_mod:endless_beaf_item"}',
 5 : '',
 6 : '',
 7 : '',
