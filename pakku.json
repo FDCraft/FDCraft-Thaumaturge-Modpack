@@ -16,6 +16,15 @@
         },
         "clientsort": {
             "side": "CLIENT"
+        },
+        "bookshelf": {
+            "side": "BOTH"
+        },
+        "alternate-current": {
+            "side": "BOTH"
+        },
+        "achievements-optimizer": {
+            "side": "BOTH"
         }
     }
 }
