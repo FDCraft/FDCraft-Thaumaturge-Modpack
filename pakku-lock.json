@@ -9157,6 +9157,47 @@
             ]
         },
         {
+            "pakku_id": "CRymOM0IZ5JPAK82",
+            "pakku_links": [
+                "8wv7qCdffEuJTUdW"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "thaumaturge-tinker"
+            },
+            "name": {
+                "curseforge": "Thaumaturge Tinker"
+            },
+            "id": {
+                "curseforge": "1792741"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Thaumaturge-Tinkers-1.21.1-1.1.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9648/983/Thaumaturge-Tinkers-1.21.1-1.1.2.jar",
+                    "id": "9648983",
+                    "parent_id": "1792741",
+                    "hashes": {
+                        "sha1": "8c9173fb9f7ac2ba2fbfea3e8a8eb34273633ba9",
+                        "md5": "39afee21f7e5cc9f00f16c6f2a2e7f8d"
+                    },
+                    "required_dependencies": [
+                        "1628024"
+                    ],
+                    "size": 2946685,
+                    "date_published": "2026-11-16T14:29:12.470Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "3J2Yp9qN7dpnMjJU",
             "pakku_links": [
                 "8wv7qCdffEuJTUdW"
@@ -9296,6 +9337,53 @@
                     "required_dependencies": [],
                     "size": 693262,
                     "date_published": "2026-08-03T01:20:34.958064Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "oBGmjherYz25VGyR",
+            "pakku_links": [
+                "OsU1pJ5jN3vx1cya",
+                "j8RELNAQ3hFaiyFA",
+                "8wv7qCdffEuJTUdW",
+                "chMwEQD8LDIAKp9p"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "thaumic-bases-unofficial"
+            },
+            "name": {
+                "curseforge": "Thaumic/Thaumaturge Bases Unofficial"
+            },
+            "id": {
+                "curseforge": "293406"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "thaumicbases-3.6.023.5-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9586/82/thaumicbases-3.6.023.5-1.21.1.jar",
+                    "id": "9586082",
+                    "parent_id": "293406",
+                    "hashes": {
+                        "sha1": "f420e619a4f149887a324980acc73ad7c473f661",
+                        "md5": "be4fe18f0cce602b63d990ef548ebcc9"
+                    },
+                    "required_dependencies": [
+                        "309927",
+                        "936015",
+                        "1628024",
+                        "238222"
+                    ],
+                    "size": 4000379,
+                    "date_published": "2026-11-13T04:30:43.713Z"
                 }
             ]
         },
