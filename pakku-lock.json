@@ -9456,6 +9456,49 @@
             ]
         },
         {
+            "pakku_id": "j3iPdZOu46OGfgX0",
+            "pakku_links": [
+                "BUaDD7ydcLsdDAYR"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "unified-xaero-worldmap"
+            },
+            "name": {
+                "curseforge": "Unified Xaero Worldmap"
+            },
+            "id": {
+                "curseforge": "1704237"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "unified-xaero-worldmap-2.1.0-1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9575/113/unified-xaero-worldmap-2.1.0-1.21.1-neoforge.jar",
+                    "id": "9575113",
+                    "parent_id": "1704237",
+                    "hashes": {
+                        "sha1": "5e26d572d196f1eb86da57d6cae4eab9808ba804",
+                        "md5": "69cfd639e8df0c5b3a98582a7e1fc73f"
+                    },
+                    "required_dependencies": [
+                        "317780"
+                    ],
+                    "size": 641543,
+                    "date_published": "2026-11-12T14:45:40.260Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "j1zTzNCfiueIRBuD",
             "pakku_links": [
                 "osBtmKeslVLlJ4rv"
