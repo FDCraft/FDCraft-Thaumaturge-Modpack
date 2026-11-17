@@ -13,6 +13,9 @@
         },
         "lithostitched": {
             "side": "BOTH"
+        },
+        "clientsort": {
+            "side": "CLIENT"
         }
     }
 }
